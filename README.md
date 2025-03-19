@@ -18,7 +18,7 @@ Supported Browsers:
 
 Installation:
 1. Clone the Repository:
-   git clone https://github.com/yourusername/blocker.git
+   git clone https://github.com/thekusaldarshana/blocker.git
    cd blocker
 
 2. Install Dependencies:
