@@ -1,3 +1,5 @@
+Note : Other Apps (Watchdog, Beast, Karma) might want to be re-convert to .exe using pyinstaller
+
 No More Porn! - Browser Content Blocker
 
 Description:
